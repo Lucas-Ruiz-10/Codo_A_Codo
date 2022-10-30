@@ -1,0 +1,8 @@
+Link del sitio: https://lucas-ruiz-10.github.io/Codo_A_Codo/
+
+-> En un principio pretendia hacer del "inicio.html" una pre pagina para entrar al sitio principal 
+la cual cuente con un boton animado pero esto mismo no pude hacerlo por ende quedo un simple boton estatico que te redirige al "index.html".
+
+-> Todo el sitio cuenta con el mismo header el cual inculye una barra de navegacion y el mismo footer.
+
+-> El resto del sitio es bastante intuitivo asi que no creo que haga falta aclarar nada mas.
