@@ -59,7 +59,12 @@
               <input name="email" type="text" id="email" required placeholder="Email">
               <label for="message">Mensaje</label>
               <textarea id="message" name="message" id="" cols="30" rows="10"></textarea>
-              <button onClick="alert('Este boton no anda. DISCULPE LAS MOLESTIAS')">Enviar</button>
+              <button>Enviar formulario</button>
+                <script>
+                const button =document.querySelector("button")
+                button.onclick =()=>alert("Error! Intente de nuevo")
+                </script>
+
 
             </form>
             <a href="#" id="trucazo"></a>
